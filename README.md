@@ -1,2 +1,2 @@
 # calc-UJ
-A simple calculator
+A simple calculator in C.
