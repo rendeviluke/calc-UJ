@@ -1,2 +1,2 @@
 # calc-UJ
-A simple calculator in C.
+A basic calculator for college project.
